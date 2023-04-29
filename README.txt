@@ -54,5 +54,4 @@ Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/co
 
 ## Más informacion
 
-Echo por Carlos Adrian Soto Botero.
-##Se elimino el correo ###
+Echo por Carlos Adrian Soto Botero.##Se elimino el correo ###
